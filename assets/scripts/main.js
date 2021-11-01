@@ -7,11 +7,11 @@ const recipes = [
   'https://introweb.tech/assets/json/birthdayCake.json',
   'https://introweb.tech/assets/json/chocolateChip.json',
   // Reference to https://www.recipetineats.com/pearl-barley-soup/
-  '/assets/recipes/PearlBarleySoup.json',
+  'assets/recipes/PearlBarleySoup.json',
   // Reference to https://www.recipetineats.com/ultimate-roast-lamb-12-hour-shoulder/
-  '/assets/recipes/roastLamb.json',
+  'assets/recipes/roastLamb.json',
   // Reference to https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/
-  '/assets/recipes/ThaiNoodles.json'
+  'assets/recipes/ThaiNoodles.json'
 ];
 
 // Once all of the recipes that were specified above have been fetched, their
